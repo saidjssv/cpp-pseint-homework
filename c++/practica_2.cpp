@@ -2,6 +2,12 @@
 
 using namespace std;
 
+
+/*  
+    Se repite demasiado codigo :sob:
+    Lo dejare para mejorarlo en algun momento o dia, espero.
+*/
+
 int main() {
 
     cout << "----------------------------------------" << endl;
